@@ -7,4 +7,4 @@ A homepage with a navigation bar to browse the different articles. Designed to h
 ![photo-of-homepage](./assets/images/refactor%20website%202023-06-22%20162918.png)
 
 ## Link
-[link-to-website](https://jacob-kachmarek.github.io/portfolio/)
+[link-to-website](https://jacob-kachmarek.github.io/module-1-challenge-refactor/)
